@@ -24,8 +24,7 @@ The Little Twins retail store wants to analyze their July sales data. So that, t
 - Built pivot tables and designed an interactive dashboard in MS Excel
 
 ## Dashboard
-![Dashboard Screenshot]
-<a href= "https://github.com/Shanawaz8002/July-Analysis-Dashboard/blob/main/July_Analysis%20Dashboard.png">
+![Dashboard Screenshot](https://github.com/Shanawaz8002/July-Analysis-Dashboard/blob/main/July_Analysis%20Dashboard.png")
 
 ## Project Insight
 - **Top Categories:** Bags, Toys, and Footwear are among the top revenue-contributing product categories.
